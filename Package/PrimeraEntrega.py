@@ -14,7 +14,6 @@ def verificar_acceso(usuarios):
     else:
         print("Nombre de usuario o contraseña incorrectos. Intente nuevamente.")
 
-
 def main():
     usuarios = {}  
 
